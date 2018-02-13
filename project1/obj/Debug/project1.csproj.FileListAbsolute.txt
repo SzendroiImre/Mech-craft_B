@@ -1,0 +1,5 @@
+C:\Users\Monokli\Documents\SharpDevelop Projects\project1\project1\bin\Debug\project1.exe
+C:\Users\Monokli\Documents\SharpDevelop Projects\project1\project1\bin\Debug\project1.pdb
+C:\Users\Monokli\Documents\SharpDevelop Projects\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\Monokli\Documents\SharpDevelop Projects\project1\project1\obj\Debug\project1.exe
+C:\Users\Monokli\Documents\SharpDevelop Projects\project1\project1\obj\Debug\project1.pdb
